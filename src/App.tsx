@@ -1,6 +1,6 @@
 import BackDrop from './components/BackDrop/BackDrop';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import ShowAlert from './components/ShowAlert';
+import ShowAlert from './components/ShowAlert/ShowAlert';
 
 const App = () => {
 

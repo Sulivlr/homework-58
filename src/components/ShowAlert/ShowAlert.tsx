@@ -1,6 +1,6 @@
 import {useState} from 'react';
-import Alert from './Alert/Alert';
-import {AlertColor} from '../types';
+import Alert from '../Alert/Alert';
+import {AlertColor} from '../../types';
 
 const ShowAlert = () => {
 
